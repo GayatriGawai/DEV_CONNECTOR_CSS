@@ -29,6 +29,13 @@
 .text-primary{
     color: $primary-color;
 }
+
+// Round images
+.round-img{
+    border-radius: 50%;
+}
+
+
 //Backgrounds
 .bg{
     &-primary{
