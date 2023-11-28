@@ -1,12 +1,13 @@
 @import 'config';
 @import 'utilities';
+@import 'forms';
 *{
     box-sizing:border-box ;
     margin: 0;
     padding: 0;
 }
 body{
-    font-family: 'Ralewayt', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     background-color: #fff;
