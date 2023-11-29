@@ -174,7 +174,6 @@ img{
     grid-gap: 2rem;
     align-items: center;
 
-
     &>div:first-child{
         text-align: center;
     }
@@ -184,3 +183,5 @@ img{
     }
     
 }
+
+@import 'mobile';
